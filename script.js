@@ -10,6 +10,7 @@ function makeid(l) {
 				)
 		)
 	}
+	return res;
 }
 
 // Do not change the code below.
